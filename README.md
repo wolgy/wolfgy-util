@@ -13,7 +13,7 @@ Util collection of mine.我的个人工具类集合。
 **作用:** 获取传入Bean对象中值为空的属性名。 
 2. getNotNullPropertyNames(Object obj)  
 **作用:** 获取传入Bean对象中值不为空的属性名。 
-3. copyPropertiesIgnoreSpecified(Object source, Object target, @Nullable String ignoreProperties) 
+3. copyPropertiesIgnoreSpecified(Object source, Object target, @Nullable String ignoreProperties)  
 **作用:** 拷贝属性到目标对象，同时排除指定属性。
 4. copyPropertiesIgnoreNull(Object source, Object target)  
 **作用:** 拷贝非空属性到目标对象。
