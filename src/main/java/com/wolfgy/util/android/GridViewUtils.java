@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.GridView;
 import android.widget.ListAdapter;
 
-public class GridViewUtil {
+public class GridViewUtils {
 	
 	/**
 	 * 

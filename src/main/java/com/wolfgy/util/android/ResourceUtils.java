@@ -3,7 +3,7 @@ package com.wolfgy.util.android;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 
-public class ResourceUtil {
+public class ResourceUtils {
 
 	/**
 	 * 
