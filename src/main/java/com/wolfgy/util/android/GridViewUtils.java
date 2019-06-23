@@ -7,6 +7,16 @@ import android.view.ViewGroup;
 import android.widget.GridView;
 import android.widget.ListAdapter;
 
+/**
+ * 
+ * <p>
+ * Description:安卓GridView工具类<br />
+ * </p>
+ * @title GridViewUtils.java
+ * @package com.wolfgy.util.android 
+ * @author wolfgy
+ * @version 0.1 2019年6月23日
+ */
 public class GridViewUtils {
 	
 	/**

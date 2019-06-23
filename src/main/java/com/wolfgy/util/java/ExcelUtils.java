@@ -11,6 +11,16 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+/**
+ * 
+ * <p>
+ * Description:excel工具类<br />
+ * </p>
+ * @title ExcelUtils.java
+ * @package com.wolfgy.util.java 
+ * @author wolfgy
+ * @version 0.1 2019年6月23日
+ */
 public class ExcelUtils {
 
 	/**

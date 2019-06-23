@@ -10,6 +10,16 @@ import org.springframework.beans.BeanWrapper;
 import org.springframework.beans.BeanWrapperImpl;
 import org.springframework.lang.Nullable;
 
+/**
+ * 
+ * <p>
+ * Description:Java bean操作工具类<br />
+ * </p>
+ * @title ConvenientBeanUtils.java
+ * @package com.wolfgy.util.java 
+ * @author wolfgy
+ * @version 0.1 2019年6月23日
+ */
 public class ConvenientBeanUtils {
 
 	/**

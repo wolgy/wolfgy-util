@@ -3,6 +3,16 @@ package com.wolfgy.util.android;
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
 
+/**
+ * 
+ * <p>
+ * Description:安卓R文件工具类<br />
+ * </p>
+ * @title ResourceUtils.java
+ * @package com.wolfgy.util.android 
+ * @author wolfgy
+ * @version 0.1 2019年6月23日
+ */
 public class ResourceUtils {
 
 	/**
